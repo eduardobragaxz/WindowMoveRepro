@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WindowMoveRepro (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WindowMoveRepro (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
